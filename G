@@ -1,57 +1,61 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
-http://fonteangelusiptv.com:25461/narcisa/narcisa/92865
+https://stream2.canais.info/a/hls/fox.m3u8?expires=1587545453&token=130d3ca60fe6347264e6dcbf00b50569
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
-
+https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587546494&token=9da2d5f06a16582262cfc1a6f44c1f90
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
-
+https://stream2.canais.info/a/hls/nick.m3u8?expires=1587546078&token=277ab19c7cffbfba2a6f5523f1b09ecb
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
-
+https://stream2.canais.info/a/hls/tooncast.m3u8?expires=1587546610&token=85854f90f1987a2e741e9909eafac1de
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL
-
+https://stream2.canais.info/a/hls/disney.m3u8?expires=1587545654&token=4eb49debcb84b3d26b3bb65a8ae5f03e
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD
-
+https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587546147&token=a6f5d62de106ffb8a90452ee5c8c58e3
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
-
+https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587546732&token=43d62d8cda515be6e7bd408a6db5a88f
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY
-
+https://stream2.canais.info/a/hls/history.m3u8?expires=1587545855&token=84fa5afc392458d92e79dc7354481070
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
-
+https://stream2.canais.info/a/hls/discovery.m3u8?expires=1587546841&token=00104df92a246b20ec44bfbc92cb69d6
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/fyahras535i_gmail_Hbo/hbo.jpg" group-title="CANAIS",HBO HD
-
+https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587547123&token=d62cf79f4fc7b666ba9218c216c12f37
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/globo_202001/GLOBO.jpg" group-title="CANAIS",GLOBO
-
+https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587547863&token=68531f22c097ec4234bac92e1f7174d7
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC
-
+https://stream2.canais.info/a/hls/amc.m3u8?expires=1587547749&token=2a26c193a7b396af0823d44e736fa093
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
-
+https://stream2.canais.info/a/hls/sony.m3u8?expires=1587546970&token=d3cebc3154183a3e7a52ac58c2dd1792
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0120/Universal-Channel.png" group-title="CANAIS",UNIVERSAL CHANNEL
-
+https://stream2.canais.info/a/hls/universal.m3u8?expires=1587545967&token=975c364f3396c9dd9206dcd871285a0a
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",WARNER CHANNEL
-
+https://stream2.canais.info/a/hls/warner.m3u8?expires=1587547373&token=31691364d3ddc5ab1b859d27bff325b7
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",NATGEO WILD
-
+https://stream2.canais.info/a/hls/natgeowild.m3u8?expires=1587547466&token=f12b8d4144204db6b5f25dddb590d661
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/TntHd/tnt%20hd.png" group-title="CANAIS",TNT HD
-
+https://stream2.canais.info/a/hls/tnt.m3u8?expires=1587547228&token=d20f596b9b79f8c2f17f6d575c0ef3b5
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",A&E
+https://stream2.canais.info/a/hls/aie.m3u8?expires=1587547641&token=1f0be10c86c91a18083211de0cc25501
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network
+https://stream2.canais.info/a/hls/cartoon.m3u8?expires=1587546225&token=ddafe86b52f2fe3b70e9749c0e7bdd38
 
 
 ###################################################
