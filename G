@@ -37,7 +37,7 @@ https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587547123&token=d62cf79f4fc7
 https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587547863&token=68531f22c097ec4234bac92e1f7174d7
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC
-https://40262&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40262&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
 https://stream2.canais.info/a/hls/sony.m3u8?expires=1587546970&token=d3cebc3154183a3e7a52ac58c2dd1792
