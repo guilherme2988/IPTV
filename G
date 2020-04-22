@@ -1,5 +1,8 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="IPTV",IPTV GUI GRATIS!!
+https://0.0.0.0.0
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
 https://stream2.canais.info/a/hls/fox.m3u8?expires=1587545453&token=130d3ca60fe6347264e6dcbf00b50569
 
