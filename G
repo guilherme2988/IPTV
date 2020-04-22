@@ -64,7 +64,7 @@ https://stream2.canais.info/a/hls/cartoon.m3u8?expires=1587546225&token=ddafe86b
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET ONEPLAY
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F38392&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ffsrv.me%2F7757536429%2Ffireurl.co%2F1902&callbackparam=&swf=None&auth=&simpledownloader=False
 
 ###################################################
 ###################################################
