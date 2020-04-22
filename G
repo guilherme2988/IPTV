@@ -58,7 +58,7 @@ https://stream2.canais.info/a/hls/tnt.m3u8?expires=1587547228&token=d20f596b9b79
 https://stream2.canais.info/a/hls/aie.m3u8?expires=1587547641&token=1f0be10c86c91a18083211de0cc25501
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network
-https://stream2.canais.info/a/hls/cartoon.m3u8?expires=1587546225&token=ddafe86b52f2fe3b70e9749c0e7bdd38
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F38427&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
