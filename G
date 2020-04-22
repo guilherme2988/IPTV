@@ -4,7 +4,7 @@
 https://0.0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
-38427&callbackparam=&swf=None&auth=&simpledownloader=False
+https://38427&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587546494&token=9da2d5f06a16582262cfc1a6f44c1f90
