@@ -28,7 +28,7 @@ https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587546732&token=43d
 https://stream2.canais.info/a/hls/history.m3u8?expires=1587545855&token=84fa5afc392458d92e79dc7354481070
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
-https://stream2.canais.info/a/hls/discovery.m3u8?expires=1587546841&token=00104df92a246b20ec44bfbc92cb69d6
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fmaria%2Fmaria123%2F36985&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/fyahras535i_gmail_Hbo/hbo.jpg" group-title="CANAIS",HBO HD
 https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587547123&token=d62cf79f4fc7b666ba9218c216c12f37
@@ -37,7 +37,7 @@ https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587547123&token=d62cf79f4fc7
 https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587547863&token=68531f22c097ec4234bac92e1f7174d7
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fcarlos%2Fcarlos1%2F40262&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fmaria%2Fmaria123%2F36928&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
 https://stream2.canais.info/a/hls/sony.m3u8?expires=1587546970&token=d3cebc3154183a3e7a52ac58c2dd1792
@@ -58,7 +58,7 @@ https://stream2.canais.info/a/hls/tnt.m3u8?expires=1587547228&token=d20f596b9b79
 https://stream2.canais.info/a/hls/aie.m3u8?expires=1587547641&token=1f0be10c86c91a18083211de0cc25501
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F38427&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fmaria%2Fmaria123%2F36927&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
