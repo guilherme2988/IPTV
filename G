@@ -4,13 +4,13 @@
 https://0.0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F38427&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40263&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
-https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587546494&token=9da2d5f06a16582262cfc1a6f44c1f90
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F38390&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
-https://stream2.canais.info/a/hls/nick.m3u8?expires=1587546078&token=277ab19c7cffbfba2a6f5523f1b09ecb
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40039&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
 https://stream2.canais.info/a/hls/tooncast.m3u8?expires=1587546610&token=85854f90f1987a2e741e9909eafac1de
@@ -68,4 +68,3 @@ http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWN
 ###################################################
 ###################################################
 ##FILMES####
-
