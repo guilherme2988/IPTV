@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="CANAIS",IPTV GUI GRATIS!!
 https://0.0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40263&callbackparam=&swf=None&auth=&simpledownloader=False
+#EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX 
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fcarlos%2Fcarlos1%2F38427&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F38390&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fcarlos%2Fcarlos1%2F38390&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
 http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40039&callbackparam=&swf=None&auth=&simpledownloader=False
@@ -37,7 +37,7 @@ https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587547123&token=d62cf79f4fc7
 https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587547863&token=68531f22c097ec4234bac92e1f7174d7
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40262&callbackparam=&swf=None&auth=&simpledownloader=False
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fcarlos%2Fcarlos1%2F40262&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
 https://stream2.canais.info/a/hls/sony.m3u8?expires=1587546970&token=d3cebc3154183a3e7a52ac58c2dd1792
