@@ -4,7 +4,7 @@
 https://0.0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fcarlos%2Fcarlos1%2F38427&callbackparam=&swf=None&auth=&simpledownloader=False
+http://cdn.cracklevideos.cf/live/foxpremium2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
 http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fcarlos%2Fcarlos1%2F38390&callbackparam=&swf=None&auth=&simpledownloader=False
