@@ -7,7 +7,7 @@ https://0.0.0.0.0
 http://cdn.cracklevideos.cf/live/foxpremium2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
-http://107.167.27.19:23432/live/pt_kMewqpTKfyYadI1gm05U8cvx_480p.ts?user_id=24450818&dev_id=7c60889403c4f55cd110fba5a06e063b&trans_id=VYp38X3ahaFR_FarXqEEODcjw&dead_time=1587772898&app_id=com.mobile.brasiltvmobile&host=107.167.27.19:23432&app_ver=21302&client_ip=170.84.239.12&auth_id=24450818m&token=f089b1837a1c8722b4825f8e35837d75
+http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41357.m3u8 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
 http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fthiago%2Fthiago123%2F40039&callbackparam=&swf=None&auth=&simpledownloader=False
