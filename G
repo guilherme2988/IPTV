@@ -40,7 +40,7 @@ https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587547863&token=68531f22c
 http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fmaria%2Fmaria123%2F36928&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
-https://stream2.canais.info/a/hls/sony.m3u8?expires=1587546970&token=d3cebc3154183a3e7a52ac58c2dd1792
+http://23.237.78.82:30010/streams/158_.m3u8 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0120/Universal-Channel.png" group-title="CANAIS",UNIVERSAL CHANNEL
 https://stream2.canais.info/a/hls/universal.m3u8?expires=1587545967&token=975c364f3396c9dd9206dcd871285a0a
@@ -58,7 +58,7 @@ https://stream2.canais.info/a/hls/tnt.m3u8?expires=1587547228&token=d20f596b9b79
 https://stream2.canais.info/a/hls/aie.m3u8?expires=1587547641&token=1f0be10c86c91a18083211de0cc25501
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network
-http://23.237.78.82:30010/streams/114_.m3u8 
+ 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
