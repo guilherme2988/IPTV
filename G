@@ -25,7 +25,7 @@ https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587546147&token=a6f5d62
 https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587546732&token=43d62d8cda515be6e7bd408a6db5a88f
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY
-https://stream2.canais.info/a/hls/history.m3u8?expires=1587545855&token=84fa5afc392458d92e79dc7354481070
+http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
 http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fmaria%2Fmaria123%2F36985&callbackparam=&swf=None&auth=&simpledownloader=False
