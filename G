@@ -62,9 +62,9 @@ http://89.187.173.211/mU3W6z/SfpNqQ/20890?token=TRNcUBZZEwoRA1ABUgAFAVwHCw8NB1YO
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET ONEPLAY
-http://23.237.78.82:30010/streams/114_.m3u8 
+http://proxyts2.canais.info:8080/a/hls/hbo.m3u8 
 ###################################################
 ###################################################
 ##FILMES####
