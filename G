@@ -15,11 +15,11 @@ http://23.237.22.248:25461/live/Max30/WQEyZd5Ilf/41357.m3u8?token=Q0NYBUcNFlkSXl
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
 https://stream2.canais.info/a/hls/tooncast.m3u8?expires=1587546610&token=85854f90f1987a2e741e9909eafac1de
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL
-https://stream2.canais.info/a/hls/disney.m3u8?expires=1587545654&token=4eb49debcb84b3d26b3bb65a8ae5f03e
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL LINK CINE BOX APP SEM IDM
+http://maxptv.net:8080/live/rosa/rosa/236.m3u8 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD
-https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587546147&token=a6f5d62de106ffb8a90452ee5c8c58e3
+#EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD LINK APP CINE BOX COM IDM
+http://185.152.66.188:25461/live/rosa/rosa/236.m3u8?token=ShBZAkYKRw0TA1ZeAFFQBVIDBANUDldQDVgEAgZXXFwBBARWA1JXAFIQSURLQ0QDBV9qX1MUXwQGDx5EQEddSm5bVUEPQFABCAJHShpDXwsBEA8GGxQVX1EbCEQEAA0JBRAdQVAaEVJDXAQKZ1NTEA1RUBQNWBBaWRUQCVtrXF1cU18HF1hHBxMeRw9LRxRcCkdZWhsUB19BS1MSUBYCGgAKBFUXTkdUXkcLEkpOFFxGcGcUGxQATkFcXBVcW1YaCxBcUEBaRxsTWxY5SlJFEhZXVFtSREcMFwkQShdZWUBuUV4NWwcGQ1hdCxUaDRRXRh4XW1hYDEJaS20WXFAaAhMDBFUGW1MVTA== 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
 https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587546732&token=43d62d8cda515be6e7bd408a6db5a88f
