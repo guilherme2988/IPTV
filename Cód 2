@@ -1840,6 +1840,29 @@ https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
 #EXTMF:logo="https://archive.org/download/boomerang_201708/boomeng.pg" grup-tile="CAIS",BOO
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX CHANEL
+https://stream2.canais.info/a/hls/fox.m3u8?expires=1587433765&token=55744ec480a232d23cbf1f731da27390
+#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG
+https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
+#EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
+https://stream2.canais.info/a/hls/nick.m3u8?expires=1587434237&token=4c259ff112346b98269ca7434abec924
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
+https://stream2.canais.info/a/hls/tooncast.m3u8?expires=1587434320&token=55ad4ca5d7ae9b2f39dec97ca07b053d
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0137/Disney-Channel.png" group-title="CANAIS",DISNEY CHANNEL
+https://stream2.canais.info/a/hls/disney.m3u8?expires=1587434377&token=950bf326a20eedfe991bdc4dd61eacd9
+#EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD
+https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587434437&token=4a98c726a560d7e35796a9987dcc67cd
+#EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
+https://live.multicanais.com/live/animalplanetsd/video.m3u8?md5=CqcMPWsbifnIGfap4LDaSA&expires=1587505548
+#EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY
+https://stream2.canais.info/a/hls/history.m3u8?expires=1587437716&token=610f89edc4935ac9494f27c516d39a9c
+#EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
+https://stream2.canais.info/a/hls/discovery.m3u8?expires=1587437818&token=8afcb5a387ef50afc621266c5da0f196
+#EXTINF:-1 tvg-logo="https://archive.org/download/fyahras535i_gmail_Hbo/hbo.jpg" group-title="CANAIS",HBO HD
+https://stream2.canais.info/a/hls/hbo.m3u8?expires=1587437932&token=300dceec1b70694fc930d33ec38a2717
+#EXTINF:-1 tvg-logo="https://archive.org/download/globo_202001/GLOBO.jpg" group-title="CANAIS",GLOBO
+https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587437988&token=22a4a0ef56dffb581aec6519d8fb70d2
 #EXTM3
 #EXTMF:logo="https://archive.org/download/boomerang_201708/boomerang.pg" grup-tile="CAIS",BOO
 https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1587434112&token=dccf38224a34bd992e3876ea98a2f80d
