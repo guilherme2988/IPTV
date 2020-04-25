@@ -63,8 +63,8 @@ http://srv.tvprodigital.net:8080/movie/mU3W6z/SfpNqQ/40072.mp4
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET ONEPLAY
-http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",canal brazuca link
+http://proxyts.canais.ink:8080/a/hls/history.m3u8  
  
 ###################################################
 ###################################################
