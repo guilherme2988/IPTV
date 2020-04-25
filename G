@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://archive.org/download/imagen-free-iptv-lists-urls-d-0big_20200422/imagen-free-iptv-lists-urls-d-0big.png" group-title="CANAIS",IPTV GUI GRATIS!!
 https://0.0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX app sua tela  
+#EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX APP SUA TELA
 http://cdn.cracklevideos.cf/live/foxpremium2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG app Kodi formiga 
+#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG APP KODI FORMIGA 
 http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41357.m3u8 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
@@ -24,7 +24,7 @@ https://stream2.canais.info/a/hls/disneyxd.m3u8?expires=1587546147&token=a6f5d62
 #EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
 https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587546732&token=43d62d8cda515be6e7bd408a6db5a88f
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY app sua tela
+#EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY APP SUA TELA
 http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
@@ -54,12 +54,11 @@ https://stream2.canais.info/a/hls/natgeowild.m3u8?expires=1587547466&token=f12b8
 #EXTINF:-1 tvg-logo="https://archive.org/download/TntHd/tnt%20hd.png" group-title="CANAIS",TNT HD
 https://stream2.canais.info/a/hls/tnt.m3u8?expires=1587547228&token=d20f596b9b79f8c2f17f6d575c0ef3b5
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",A&E
-https://stream2.canais.info/a/hls/aie.m3u8?expires=1587547641&token=1f0be10c86c91a18083211de0cc25501
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",A&E DO TESTE 
+http://89.187.173.211/mU3W6z/SfpNqQ/24628?token=TRNcUBZZEwoRBAcJAlEBDVwHC1ZfB1cIV1MAWgAEBgcABQcGVVNXAQMUSRpAQEVcBVptXl0RWQsGBgMBSkNCQVNDa1gBEwsSBgVQAAUGFRVGQ1taXBFZCAcIBg5RUwIBBR0WQQxVEwoRB1QPAgMVFUZSSkNcQQ1YXm9VXBAIVFcUC1pECV0dElxYOlxWWVZXABUIFQkRTxtbQ0EbXA9CXlodFlMMRUNRR1NHAhEFAApSFR4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VTRcVHhVQQDxLV0NFSwMAWldEEw4TVRMdEl5XHWdQW1lXAVRGXlZdEBsIEgAbSkNaXVhYQF4XbkFZVxRfGgcDBwtGSg==
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network do teste 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network DO TEST 
 http://89.187.173.211/mU3W6z/SfpNqQ/20890?token=TRNcUBZZEwoRA1ABUgAFAVwHCw8NB1YOVgBQCgJYUwIOA1IIUgUBBlEUSRpAQEVcBVptXl0RWQsCCAgJSkNCQVNDa1gBEwsSBgVQAAUGFRVGQ1taXBFZCAcIBg5RUAAKDx0WQQxVEwoRBFcOAQ0VFUZSSkNcQQ1YXm9VXBAIVFcUC1pECV0dElxYOlxWWVZXABUIFQkRTxtbQ0EbXA9CXlodFlMMRUNRR1NHAhEGBQxRFR4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VTRcVHhVQQDxLV0NFSwMAWldEEw4TVRMdEl5XHWdQW1lXAVRGXlZdEBsIEgAbSkNaXVhYQF4XbkFZVxRfGgcCBgFGSg==
-
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
