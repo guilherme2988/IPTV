@@ -51,8 +51,8 @@ https://stream2.canais.info/a/hls/warner.m3u8?expires=1587547373&token=31691364d
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",NATGEO WILD
 https://stream2.canais.info/a/hls/natgeowild.m3u8?expires=1587547466&token=f12b8d4144204db6b5f25dddb590d661
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/TntHd/tnt%20hd.png" group-title="CANAIS",TNT HD
-https://stream2.canais.info/a/hls/tnt.m3u8?expires=1587547228&token=d20f596b9b79f8c2f17f6d575c0ef3b5
+#EXTINF:-1 tvg-logo="https://archive.org/download/TntHd/tnt%20hd.png" group-title="CANAIS",TNT APP CINE BOX SEM IDM
+http://a.srvbr.me:8880/live/Francisco123/Francisco123/4167.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",A&E DO TESTE 
 http://89.187.173.211/mU3W6z/SfpNqQ/24628?token=TRNcUBZZEwoRBAcJAlEBDVwHC1ZfB1cIV1MAWgAEBgcABQcGVVNXAQMUSRpAQEVcBVptXl0RWQsGBgMBSkNCQVNDa1gBEwsSBgVQAAUGFRVGQ1taXBFZCAcIBg5RUwIBBR0WQQxVEwoRB1QPAgMVFUZSSkNcQQ1YXm9VXBAIVFcUC1pECV0dElxYOlxWWVZXABUIFQkRTxtbQ0EbXA9CXlodFlMMRUNRR1NHAhEFAApSFR4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VTRcVHhVQQDxLV0NFSwMAWldEEw4TVRMdEl5XHWdQW1lXAVRGXlZdEBsIEgAbSkNaXVhYQF4XbkFZVxRfGgcDBwtGSg==
