@@ -9,8 +9,8 @@ http://cdn.cracklevideos.cf/live/foxpremium2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG APP KODI FORMIGA 
 http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41357.m3u8 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON
-http://23.237.22.248:25461/live/Max30/WQEyZd5Ilf/41357.m3u8?token=Q0NYBUcNFlkSXlcHV1JWUlACUwIAAVdUUFRVVFZTB1UMV1VRDVBVAAlEH0QWERdRBwk+DV1BXgNXBgEAGEZHEV0Tbw1QRw5BAVEGUlRXRxhEEAgJXEFeB0oXRF5QRghAClgBXQVHGEFVHkcDFwsEWDkABBJQAAEVXFtBW1hIEA1WPlQBWQRaBxJcEVZHSUddFRRDXlcWCFtKF1ZeQBZTFl1DCkYHVwNbEkoRBQoQC0AUHUNeGyE2FUoXUU9AAVwRUQ5eRg5HWVBFXhFKRwwWaxQBEhBLBgVaA0cWDRZUEE4aDFEcawZbDV4DUBIMCgtHRF5DVhtPRloJW11DWxZtElEFEl4WVAdTA1URGw== 
+#EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON LINK ANTIGO DO BRAZUCA
+http://proxyts.canais.ink:8080/a/hls/fox.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0159/Tooncast.png" group-title="CANAIS",TOONCAST
 https://stream2.canais.info/a/hls/tooncast.m3u8?expires=1587546610&token=85854f90f1987a2e741e9909eafac1de
