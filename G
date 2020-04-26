@@ -22,7 +22,7 @@ http://maxptv.net:8080/live/rosa/rosa/236.m3u8
 http://185.152.66.188:25461/live/rosa/rosa/236.m3u8?token=ShBZAkYKRw0TA1ZeAFFQBVIDBANUDldQDVgEAgZXXFwBBARWA1JXAFIQSURLQ0QDBV9qX1MUXwQGDx5EQEddSm5bVUEPQFABCAJHShpDXwsBEA8GGxQVX1EbCEQEAA0JBRAdQVAaEVJDXAQKZ1NTEA1RUBQNWBBaWRUQCVtrXF1cU18HF1hHBxMeRw9LRxRcCkdZWhsUB19BS1MSUBYCGgAKBFUXTkdUXkcLEkpOFFxGcGcUGxQATkFcXBVcW1YaCxBcUEBaRxsTWxY5SlJFEhZXVFtSREcMFwkQShdZWUBuUV4NWwcGQ1hdCxUaDRRXRh4XW1hYDEJaS20WXFAaAhMDBFUGW1MVTA== 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",FILME
-http://cdn.logicalvideo.cf:80/fm/avsderpinaarlequina_dub.mp4
+http://209.126.113.5:80/vod/v2/data/vod/451E1020E73C43628D55EF9076726B62_0.ts?dev_id=7c60889403c4f55cd110fba5a06e063b&user_id=24450818&store_uri=group1/M06/00/01/xv8SEl6gopOAG6rnEEzRtBb78b82033004&trans_id=P121rzTT3wWg_T58QBYIyOpwl&expired=1587958373&app_id=com.mobile.brasiltvmobile&host=209.126.113.5:80&auth_id=24450818m&client_ip=170.84.239.27&media_code=451E1020E73C43628D55EF9076726B62&token=cc54191f81b4c7db728f20ed94e00d0a
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY APP SUA TELA
 http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8 
