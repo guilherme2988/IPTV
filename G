@@ -21,8 +21,8 @@ http://maxptv.net:8080/live/rosa/rosa/236.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD LINK APP CINE BOX COM IDM
 http://185.152.66.188:25461/live/rosa/rosa/236.m3u8?token=ShBZAkYKRw0TA1ZeAFFQBVIDBANUDldQDVgEAgZXXFwBBARWA1JXAFIQSURLQ0QDBV9qX1MUXwQGDx5EQEddSm5bVUEPQFABCAJHShpDXwsBEA8GGxQVX1EbCEQEAA0JBRAdQVAaEVJDXAQKZ1NTEA1RUBQNWBBaWRUQCVtrXF1cU18HF1hHBxMeRw9LRxRcCkdZWhsUB19BS1MSUBYCGgAKBFUXTkdUXkcLEkpOFFxGcGcUGxQATkFcXBVcW1YaCxBcUEBaRxsTWxY5SlJFEhZXVFtSREcMFwkQShdZWUBuUV4NWwcGQ1hdCxUaDRRXRh4XW1hYDEJaS20WXFAaAhMDBFUGW1MVTA== 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",ANIMAL PLANET
-https://stream2.canais.info/a/hls/animalplanet.m3u8?expires=1587546732&token=43d62d8cda515be6e7bd408a6db5a88f
+#EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",FILME
+http://cdn.logicalvideo.cf:80/fm/avsderpinaarlequina_dub.mp4
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY APP SUA TELA
 http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8 
