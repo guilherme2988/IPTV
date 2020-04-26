@@ -48,8 +48,8 @@ https://stream2.canais.info/a/hls/universal.m3u8?expires=1587545967&token=975c36
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",WARNER CHANNEL
 https://stream2.canais.info/a/hls/warner.m3u8?expires=1587547373&token=31691364d3ddc5ab1b859d27bff325b7
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",NATGEO WILD
-https://stream2.canais.info/a/hls/natgeowild.m3u8?expires=1587547466&token=f12b8d4144204db6b5f25dddb590d661
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",NATGEO WILD BRAZUCA 2
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=HLSRETRY&maxbitrate=0&proxy=None&url=https%3A%2F%2Fgeralorigin.eu-central-1.edge.mycdn.live%2Flive%2Ffoxpremiumsd%2Fvideo.m3u8|Referer%3Dhttps%3A%2F%2Fcanaismax.com%2Fassistir.php&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/TntHd/tnt%20hd.png" group-title="CANAIS",TNT APP CINE BOX SEM IDM
 http://me8m8.com:8600/balance/getAAAServer?userid=160517007192&cid=237&pid=44&mid=255&version=2&location_user=0
