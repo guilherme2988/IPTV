@@ -39,11 +39,11 @@ https://stream2.canais.info/a/hls/bobosp.m3u8?expires=1587547863&token=68531f22c
 #EXTINF:-1 tvg-logo="https://archive.org/download/stevechatfield27_gmail_Amc/amc.png" group-title="CANAIS",AMC LINK NOVO DO BRAZUCA
 http://proxyts.canais.gratis:8080/a/hls/fox.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY
-http://23.237.78.82:30010/streams/158_.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS",SONY filme do teste usando idm
+http://51.161.87.13:25461/movie/vc5wlbfh/vc5wlbfh/66561.mp4?token=SEcLUkUKEQ8UVwJcXw8DVF0PCVhUBVQEAwhVDlMLVwsFUVQDAlsDDVNEHRtKQxRQWFRmCFQSCwEBBFMJThsUSlYXPFpSQAkXAVIGCA8FRBkbTVAMVRILBgIJUgFXDlQJA0lBQ18GEQ8UUgcBGxtEUEFNXBNeUV1oU1QTUQFcQwMRR08RWQxsUVMLUFddFVwXCRsVQ1lDQRUNXxBUDhVDW1oREVJCBxEPFF8DCxsbRFZWTFcVQkkTDRVzNxpOGwRBRwANQF8NXRcMRFxJDRVKF1BKZhNVQ0VFUlAIXRAbWxsDR08RWwNLalUJX1dcVBJcVldKQwoSABUbEwhXDFAVVkE6E1pSQAkXBFYDAAwVGw==
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0120/Universal-Channel.png" group-title="CANAIS",UNIVERSAL CHANNEL
-https://stream2.canais.info/a/hls/universal.m3u8?expires=1587545967&token=975c364f3396c9dd9206dcd871285a0a
+#EXTINF:-1 tvg-logo="https://archive.org/download/201912_20191203_0120/Universal-Channel.png" group-title="CANAIS",UNIVERSAL CHANNEL filme do teste s m usar idm
+http://u9in.club:8080/movie/vc5wlbfh/vc5wlbfh/66558.avi
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",WARNER CHANNEL
 https://stream2.canais.info/a/hls/warner.m3u8?expires=1587547373&token=31691364d3ddc5ab1b859d27bff325b7
