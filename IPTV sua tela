@@ -89,3 +89,6 @@ http://cdn.cracklevideos.cf/live/bandsp/chunks.m3u8
 http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIO",Discovery Channel
 http://cdn.cracklevideos.cf/live/discoverychannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",SONY 
+http://servelive.net:80/solides/solides123/13488
+
