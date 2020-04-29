@@ -21,8 +21,8 @@ http://proxyts.canais.org:8080/a/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/DisneyXd/disney%20xd.png" group-title="CANAIS",DISNEY XD LINK APP CINE BOX COM IDM
 http://185.152.66.188:25461/live/rosa/rosa/236.m3u8?token=ShBZAkYKRw0TA1ZeAFFQBVIDBANUDldQDVgEAgZXXFwBBARWA1JXAFIQSURLQ0QDBV9qX1MUXwQGDx5EQEddSm5bVUEPQFABCAJHShpDXwsBEA8GGxQVX1EbCEQEAA0JBRAdQVAaEVJDXAQKZ1NTEA1RUBQNWBBaWRUQCVtrXF1cU18HF1hHBxMeRw9LRxRcCkdZWhsUB19BS1MSUBYCGgAKBFUXTkdUXkcLEkpOFFxGcGcUGxQATkFcXBVcW1YaCxBcUEBaRxsTWxY5SlJFEhZXVFtSREcMFwkQShdZWUBuUV4NWwcGQ1hdCxUaDRRXRh4XW1hYDEJaS20WXFAaAhMDBFUGW1MVTA== 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",FILME
-https://d3vy2cg9t0gono.cloudfront.net/movies/pets2ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://archive.org/download/AnimalPlanet/animal%20planet.png" group-title="CANAIS",FILME APP SUA TELA
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/fm/pmnjprximfase_aqade_dub.mp4
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY APP SUA TELA
 http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8 
