@@ -27,8 +27,8 @@ http://1gcdnd15e87a4d.logicalvideo.cf:7483/fm/pmnjprximfase_aqade_dub.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/images_20200419_1904/images.png" group-title="CANAIS",HISTORY APP SUA TELA
 http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftv.factoryiptv.com%3A80%2Fmaria%2Fmaria123%2F36985&callbackparam=&swf=None&auth=&simpledownloader=False
+#EXTINF:-1 tvg-logo="https://archive.org/download/DiscoveryChannel_201708/discovery%20channel.png" group-title="CANAIS",DISCOVERY CHANNEL CANAL APP SMARTV
+http://23.237.78.82:30010/streams/188_.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/fyahras535i_gmail_Hbo/hbo.jpg" group-title="CANAIS",HBO HD link do teste usando idm
 http://51.161.118.51/vc5wlbfh/vc5wlbfh/8152?token=SEcLUkUKEQ8UB1BaWg5eAV1bDFUGVgEPBABcWloJAABRVVRVAFtRB1VEHRtKQxRQWFRmCFQSCw8GBFcUQEwSXEE6ClcUWBECAlEADwsVShdNUFQEEgoAAg8GXA1SDlkPH0cTWlJACRcFVgEJCxVKF1xBTQRCXlBbaFUATgtaBBsJCxZfWk4RWlg5VVxUVghRGwMbURIcE15EQUcCDEwNVR9HAVpCEFJBU0QLGwsEVQQbFRsCX0VfQ0VIRwJAezMbH0cGS0IHXUZfCV8bAxUSRhsVGwhDb0NSREUXXQNUBEsRX0EDFE4RWFceblpWWQhQWk1QDl5DEw0VAEcUQFQOV1oRDEFpElpRFFwTDA4PUAwbRA==
