@@ -1,10 +1,10 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title="CANAIS",LISTA ATUALIZADA NO CANAL IPTV GUIGA!!
-https://0.0.0.0.0
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png" group-title="CANAIS",LISTA VIP PARA INSCRITOS NO CANAL!!
-https://0.0.0.0.1
+https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX APP SUA TELA
