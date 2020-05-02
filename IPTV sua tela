@@ -91,5 +91,7 @@ http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8
 http://cdn.cracklevideos.cf/live/discoverychannel/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",SONY 
 http://servelive.net:80/solides/solides123/13488
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIE",Sony 2
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Sony 2
 http://proxyts.canais.org:8080/a/hls1/sony.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Sony 3
+http://servelive.net:80/solides/solides123/13488
