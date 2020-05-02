@@ -95,3 +95,5 @@ http://servelive.net:80/solides/solides123/13488
 http://proxyts.canais.org:8080/a/hls1/sony.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Sony 3
 http://servelive.net:80/solides/solides123/13488
+#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",eu a patroa 
+http://servelive.net:80/solides/solides123/59145
