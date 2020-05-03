@@ -97,3 +97,23 @@ http://proxyts.canais.org:8080/a/hls1/sony.m3u8
 http://servelive.net:80/solides/solides123/13488
 #EXTINF:-1 tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="CANAIS FILMES E SERIES",eu a patroa 
 http://servelive.net:80/solides/solides123/59145
+
+
+TELEFONISTA
+T1
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep1
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP01.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep2
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP02.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep3
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP03.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep4
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP04.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep5
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP05.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep6
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP06.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep7
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP07.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep8
+https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP08.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
