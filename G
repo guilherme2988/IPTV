@@ -64,7 +64,7 @@ http://89.187.173.211/mU3W6z/SfpNqQ/24628?token=TRNcUBZZEwoRBAcJAlEBDVwHC1ZfB1cI
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",CN CARTOON Network DO TEST 
 http://srv.tvprodigital.net:8080/movie/mU3W6z/SfpNqQ/40072.mp4   
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",ANIMAL PLANET KODI
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Woohoo_logo_2014.png" group-title="CANAIS",ANIMAL PLANET KODI
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",formiga tv
