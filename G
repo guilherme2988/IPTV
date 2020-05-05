@@ -70,6 +70,24 @@ http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",serie brazuca
 http://proxyts.canais.info:8080/e/RCServer11/ondemand/3PRCT01EP01.mp4
 
+Flesh
+T1
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep1
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP01.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep2
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP02.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep3
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP03.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep4
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP04.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep5
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP05.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep6
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP06.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep7
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP07.mp4
+#EXTINF:-1 tvg-logo="" group-title="FLASH"Ep8
+http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP08.mp4
  
 ###################################################
 ###################################################
