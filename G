@@ -10,8 +10,8 @@ https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX APP SUA TELA
 http://cdn.cracklevideos.cf/live/foxpremium2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG APP KODI FORMIGA 
-http://nitro.ltd:25461/live/Max30/WQEyZd5Ilf/41357.m3u8 
+#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG APP KODI conexao 
+http://vipeiptv.com:25461/BIANCA/BIANCA/758350 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON LINK ONE PLAY SEM IDM
 http://servelive.net:80/solides/solides123/1286
