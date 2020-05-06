@@ -69,9 +69,7 @@ http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",serie brazuca
 http://proxyts.canais.info:8080/e/RCServer11/ondemand/3PRCT01EP01.mp4
-
 Flesh
-T1
 #EXTINF:-1 tvg-logo="" group-title="FLASH"Ep1
 http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP01.mp4
 #EXTINF:-1 tvg-logo="" group-title="FLASH"Ep2
@@ -88,7 +86,12 @@ http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP06.mp4
 http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP07.mp4
 #EXTINF:-1 tvg-logo="" group-title="FLASH"Ep8
 http://1gcdnd15e87a4d.logicalvideo.cf:7483/tp1/thfls/THEFLSHT01EP08.mp4
- 
+
+#EXTINF:-1 tvg-logo="" group-title="SERIE"TESTE KODI CONEXAO
+http://webtvcde.com/Series/3Perc1/3Perc.S01E02.mkv
+
+#EXTINF:-1 tvg-logo="" group-title="SERIE"TESTE KODI CONEXAO
+http://webtvcde.com:80/Series/3Perc1/3Perc.S01E05.mkv 
 ###################################################
 ###################################################
 ##FILMES####
