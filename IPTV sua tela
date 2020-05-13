@@ -1,119 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Nick Jr
-http://cdn.cracklevideos.cf/live/nickjr/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Nat geo Kiss
-http://cdn.cracklevideos.cf/live/natgeokids/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/nickjr.png" group-title="CANAIS DESENHOS",Nick Jr
+http://cdnfastly.cracklevideos.cf:1120/live/nickjr/playlist.m3u8?token=ff0245bf2ee017bae0fef34750cf407db54f199341b63c6611747637d7253b77
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS DESENHOS",Nat geo Kiss
+http://cdnfastly.cracklevideos.cf:1120/live/natgeokids/chunks.m3u8?token=ff0245bf2ee017bae0fef34750cf407db54f199341b63c6611747637d7253b77
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Tcm
-http://cdn.cracklevideos.cf/live/tcm/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Gloob
-http://cdn.cracklevideos.cf/live/gloob/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS OUTROS",MTV 
-http://cdn.cracklevideos.cf/live/mtv/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/tcm/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/gloobhd.png" group-title="CANAIS DESENHOS",Gloob
+http://cdnfastly.cracklevideos.cf:1120/live/gloob/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/mtvhd.png" group-title="CANAIS OUTROS",MTV 
+http://cdnfastly.cracklevideos.cf:1120/live/mtv/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIO",Investigação Discovery
-http://cdn.cracklevideos.cf/live/idinvestigacaodiscovery/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",FX
-http://cdn.cracklevideos.cf/live/fx/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIO",Animal planet
-http://cdn.cracklevideos.cf/live/animalplanet/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Fox Premium 2
-http://cdn.cracklevideos.cf/live/foxpremium2/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Fox Premium 1
-http://cdn.cracklevideos.cf/live/foxpremium1/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/animalplanet/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/fxhd.png" group-title="CANAIS FILMES E SERIES",FX
+http://cdnfastly.cracklevideos.cf:1120/live/fx/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="CANAIS DOCUMENTARIO",ANIMAL PLANET
+http://cdnfastly.cracklevideos.cf:1120/live/animalplanet/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/220-2201778_foxpremium2-fox-premium-series-logo.png" group-title="CANAIS FILMES E SERIES",Fox Premium 2
+http://cdnfastly.cracklevideos.cf:1120/live/foxpremium2/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="CANAIS FILMES E SERIES",Fox Premium 1
+http://cdnfastly.cracklevideos.cf:1120/live/foxpremium1/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Syfy
-http://cdn.cracklevideos.cf/live/syfy/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Hbo signature 
-http://cdn.cracklevideos.cf/live/hbosignature/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Hbo plus
-http://cdn.cracklevideos.cf/live/hboplus/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Hbo family
-http://cdn.cracklevideos.cf/live/hbofamily/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Hbo 2
-http://cdn.cracklevideos.cf/live/hbo2/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Hbo
-http://cdn.cracklevideos.cf/live/hbo/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/syfy/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/hbosignaturehd.png" group-title="CANAIS FILMES E SERIES",Hbo signature 
+http://cdnfastly.cracklevideos.cf:1120/live/hbosignature/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/hboplushd.png" group-title="CANAIS FILMES E SERIES",Hbo plus
+http://cdnfastly.cracklevideos.cf:1120/live/hboplus/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/hbofamilyhd.png" group-title="CANAIS FILMES E SERIES",Hbo family
+http://cdnfastly.cracklevideos.cf:1120/live/hbofamily/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/hbo2hd.png" group-title="CANAIS FILMES E SERIES",Hbo 2
+http://cdnfastly.cracklevideos.cf:1120/live/hbo2/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+#EXTINF:-1 tvg-logo="http://grupobrtv.com/logos/hbohd.png" group-title="CANAIS FILMES E SERIES",Hbo
+http://cdnfastly.cracklevideos.cf:1120/live/hbo/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS TELECINE",Telecine touth
-http://cdn.cracklevideos.cf/live/telecinetouch/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/telecinetouch/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS TELECINE",Telecine Premium
-http://cdn.cracklevideos.cf/live/telecinepremium/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/telecinepremium/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS TELECINE",Telecine pipoca
-http://cdn.cracklevideos.cf/live/telecinepipoca/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/telecinepipoca/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS TELECINE",Telecine fun
-http://cdn.cracklevideos.cf/live/telecinefun/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/telecinefun/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS TELECINE",Telecine cult
-http://cdn.cracklevideos.cf/live/telecinecult/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/telecinecult/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS TELECINE",Telecine action
-http://cdn.cracklevideos.cf/live/telecineaction/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/telecineaction/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS",Viva
-http://cdn.cracklevideos.cf/live/viva/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/viva/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Universal channel
-http://cdn.cracklevideos.cf/live/universalchannel/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/universalchannel/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Magapix
-http://cdn.cracklevideos.cf/live/megapix/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/megapix/playlist.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Warnerbros Chanel
-http://cdn.cracklevideos.cf/live/warnerchannel/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/warnerchannel/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Fox
-http://cdn.cracklevideos.cf/live/fox/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/fox/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Space Brasil
-http://cdn.cracklevideos.cf/live/spacebrasil/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/spacebrasil/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Axn
-http://cdn.cracklevideos.cf/live/axn/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/axn/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Cartoon network
-http://cdn.cracklevideos.cf/live/cartoonnetwork/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/cartoonnetwork/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Discovery kids
-http://cdn.cracklevideos.cf/live/discoverykids/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/discoverykids/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DESENHOS",Nechelodeon
-http://cdn.cracklevideos.cf/live/nickelodeon/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/nickelodeon/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Fox sport 2
-http://cdn.cracklevideos.cf/live/foxsports2/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/foxsports2/playlist.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Fox sport 
-http://cdn.cracklevideos.cf/live/foxsports/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/foxsports/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV 3
-http://cdn.cracklevideos.cf/live/foxsports/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/sporttv3/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV 2
-http://cdn.cracklevideos.cf/live/sporttv2/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/sporttv2/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV 
-http://cdn.cracklevideos.cf/live/sporttv/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/sporttv/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Combate 
-http://cdn.cracklevideos.cf/live/combate/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/combate/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",SBT sp
-http://cdn.cracklevideos.cf/live/sbtsp/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo sp
-http://cdn.cracklevideos.cf/live/globosp/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/sbtsp/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Globo sp
+http://cdnfastly.cracklevideos.cf:1120/live/globosp/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Record sp
-http://cdn.cracklevideos.cf/live/recordsp/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/recordsp/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Record news
-http://cdn.cracklevideos.cf/live/recordnews/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/recordnews/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",Band sp
-http://cdn.cracklevideos.cf/live/bandsp/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/bandsp/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIO",History Channel 
-http://cdn.cracklevideos.cf/live/historychannel/chunks.m3u8
+http://cdnfastly.cracklevideos.cf:1120/live/historychannel/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS DOCUMENTARIO",Discovery Channel
-http://cdn.cracklevideos.cf/live/discoverychannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",SONY 
-http://servelive.net:80/solides/solides123/13488
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Sony 2
-http://proxyts.canais.org:8080/a/hls1/sony.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS FILMES E SERIES",Sony 3
-http://servelive.net:80/solides/solides123/13488
-#EXTINF:-1 tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="CANAIS FILMES E SERIES",eu a patroa 
-http://servelive.net:80/solides/solides123/59145
+http://cdnfastly.cracklevideos.cf:1120/live/discoverychannel/chunks.m3u8?token=801f5b963be017bae0fef34750cf407db54f199341b63c6610707638d2253a75
 
 
-TELEFONISTA
-T1
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep1
-https://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/TMPSDPLNTEMFURA.mp4?expires=1588839935&token=d59828dffd8675278f701797db8b5cd9
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep2
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP02.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep3
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP03.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep4
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP04.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep5
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP05.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep6
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP06.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep7
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP07.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
-#EXTINF:-1 tvg-logo="" group-title="SERIES",TELEFONISTA T1 ep8
-https://d11ogunijrhk4f.cloudfront.net/d/RCServer06/ondemand/ASTLFNSRAT01EP08.mp4?expires=1588573661&token=c8ec9da0c342b063fbfafb69644b20f5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
