@@ -10,8 +10,8 @@ https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX APP SUA TELA
 http://cdnfastly.cracklevideos.cf:1120/live/natgeokids/l_18739_4578083_755.ts?token=dc014bcb19e017bae0fef34750cf407db54f5cde45bb3d6c12767739d5253d75b1
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG teste ao 
-http://srv2.cdnbr.site:8080/74076535/89311332/145407?token=GhoNV0taF1sbAVABU1EAUw4HUAEDXQAAVlRRAFVXXg1TCVUBAFFXUFwTHhAXRxMGWF4+X1JGWFVSV1FVUk4aTRJdF2lRVhdbGwAAClUDV1MbH0NCXwkHRlxTUF1cVgkNUABXGhpCXAUbCxADUQNRWxsfQ1NOEAcWCAMJOgEHTlECXUcMVkdZDRUTXVw7VwQOWF0FFAxGUkZKQAwWFUACGjJ9N2BxbkBRCVIFfUR3JENpYS5gcyAtNiMxRSEgQnl7JGs2eRh+YSV4Ex4QBloVEVhHBBQMRlpXVkBJRwYNTVYVShwUAhB3MxsdEFccRwQNSloOWBReQBAVQElHDBFnSgRLEURdU1gESxMIEFQRTUFUUhlpVQsMCgMBEQwKDEsaWxpUFBQQWA5XWEZdFmwRCl0RWxQHV1ddVkAY
+#EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG testte Igor lista
+https://dtt8cz4d4mfhm.cloudfront.net//hls1/bobosp.m3u8
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/20191203_20191203_0207/Nick.png" group-title="CANAIS",NICHELODEON LINK ONE PLAY SEM IDM
 http://servelive.net:80/solides/solides123/1286
