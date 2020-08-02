@@ -74,7 +74,7 @@ http://cdnfastly.cracklevideos.cf:1120/live/foxsports/chunks.m3u8?token=d721669d
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV 3
 http://cdnfastly.cracklevideos.cf:1120/live/sporttv3/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV 2
-http://cdnfastly.cracklevideos.cf:1120/live/sporttv2/chunks.m3u8?token=d721669d28e017bae0fef34750cf407db54f199341b63c661174723ed4243570
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Frtrmsrv22.gq%3A80%2Flive%2Fapp%2Fapp%2F1032889.ts&callbackparam=&swf=None&auth=&simpledownloader=False
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",SporTV 
 http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ESPORTE",Combate 
