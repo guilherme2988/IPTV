@@ -8,7 +8,7 @@ https://archive.org/download/pics-art-05-01-05.56.01/PicsArt_05-01-05.56.01.png
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/oie_19185155w9bQ3ZKj/oie_19185155w9bQ3ZKj.png" group-title="CANAIS",FOX APP SUA TELA
-http://cdnfastly.cracklevideos.cf:1120/live/natgeokids/l_18739_4578083_755.ts?token=dc014bcb19e017bae0fef34750cf407db54f5cde45bb3d6c12767739d5253d75b1
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Frtrmsrv22.gq%3A80%2Flive%2Fapp%2Fapp%2F1032889.ts&callbackparam=&swf=None&auth=&simpledownloader=False
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/boomerang_201708/boomerang.png" group-title="CANAIS",BOOMERANG testte Igor lista
 https://dtt8cz4d4mfhm.cloudfront.net//hls1/bobosp.m3u8
